@@ -1,0 +1,4 @@
+﻿  School_timer.cpp
+C:\Users\hjm79\source\repos\School_timer\School_timer\School_timer.cpp(22,20): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hjm79\source\repos\School_timer\School_timer\School_timer.cpp(153,21): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  School_timer.vcxproj -> C:\Users\hjm79\source\repos\School_timer\Debug\School_timer.exe
